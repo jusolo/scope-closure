@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusolo/scope-closure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jusolo/scope-closure/issues"
+  },
+  "homepage": "https://github.com/jusolo/scope-closure#readme"
+}
